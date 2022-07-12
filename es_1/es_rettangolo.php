@@ -1,6 +1,6 @@
 <?php
 
-class rettangolo {
+class Rettangolo {
 
     public $base;
     public $altezza;
